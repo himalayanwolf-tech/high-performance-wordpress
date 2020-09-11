@@ -70,5 +70,5 @@ crontab -e
 ```
 
 ```sh
-@daily /home/ubuntu/cureskin/www/jobs/daily-backup.sh
+@daily /home/ubuntu/himalayanwolf/himalayanwolf.in/jobs/daily-backup.sh
 ```
