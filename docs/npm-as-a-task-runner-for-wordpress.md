@@ -56,7 +56,7 @@ sudo chown -R ubuntu: /var/lib/nginx
 # Cron Jobs
 
 ```sh
-git clone https://github.com/cureskin/www
+git clone https://github.com/himalayanwolf.in/www
 cd jobs
 chmod +x setup.sh
 ./setup.sh
